@@ -2,4 +2,4 @@
 
 ![Captura8](https://github.com/DimanMayta/Seguimiento_JPA/assets/165101845/d8c0d7a6-a338-4f2b-8d73-4a3624557cc0)
 
-![Captura7](https://github.com/DimanMayta/Seguimiento_JPA/assets/165101845/3d2da572-c122-4e36-b1da-62dc765a2a9b)
+![Captura9](https://github.com/DimanMayta/Seguimiento_JPA/assets/165101845/131645b9-dd3f-4a26-a5d7-ea96d661ef49)
